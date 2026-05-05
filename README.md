@@ -10,13 +10,10 @@ This project focuses on analyzing hospital emergency room data to improve patien
 - Data Visualization  
 
 ## 📊 Key Insights
-Patient volume increased in 2024 compared to 2023
-Average waiting time slightly increased due to higher demand
-Patient satisfaction remained stable
-Around 53% patients were admitted
-Peak patient flow observed during mid-year months
-General Practice handled the highest number of cases
-Male patients were slightly higher than female
+- Patient volume increased in 2024, showing higher emergency demand
+- Average wait time (~35 mins) indicates scope for improvement
+- 53% admission rate reflects a significant number of critical cases
+- 39% delays highlight operational inefficiencies
 
 
 ## 📁 Files Included
