@@ -21,8 +21,8 @@ This project focuses on analyzing hospital emergency room data to improve patien
 - Hospital_ER_Dashboard.xlsx → Dashboard file  
 
 ## 📊 Dashboard Preview
-
-![Dashboard](hospital%20emergency%20room%20dashboard.PNG)
+## 📊 Dashboard Preview
+![Hospital Dashboard](Hospital_ER_Dashboard%20png.jpg)
 
 
 ## 🚀 How to Use
