@@ -10,10 +10,14 @@ This project focuses on analyzing hospital emergency room data to improve patien
 - Data Visualization  
 
 ## 📊 Key Insights
-- Total Patients: 451  
-- Average Waiting Time: 35.47 mins  
-- Patient Satisfaction Score: 4.59  
-- Peak load observed in specific departments  
+Patient volume increased in 2024 compared to 2023
+Average waiting time slightly increased due to higher demand
+Patient satisfaction remained stable
+Around 53% patients were admitted
+Peak patient flow observed during mid-year months
+General Practice handled the highest number of cases
+Male patients were slightly higher than female
+
 
 ## 📁 Files Included
 - Hospital Emergency raw data.csv → Dataset  
